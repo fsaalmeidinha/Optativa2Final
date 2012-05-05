@@ -13,7 +13,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
 
-            ReconhecimentoZonaRN rn = new ReconhecimentoZonaRN();
+            ReconhecimentoZonaRN.ReconhecimentoZonaRN rn = new ReconhecimentoZonaRN.ReconhecimentoZonaRN();
 
             List<ReconhecimentoZonaRN.Model.Banco> bancos = ReconhecimentoZonaRN.Model.Banco.PegarTodos();
 

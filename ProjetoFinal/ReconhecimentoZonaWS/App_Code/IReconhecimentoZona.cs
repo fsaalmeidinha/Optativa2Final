@@ -11,6 +11,6 @@ using System.ServiceModel.Web;
 public interface IReconhecimentoZona
 {
     [OperationContract]
-    [WebGet(UriTemplate = "/ReconhecimentoZona?name={name}", BodyStyle = WebMessageBodyStyle.Bare)]
-    string DoWork(string name);
+    [WebGet(UriTemplate = "/ReconhecimentoZona?latitude={latitude}&longitude={longitude}", BodyStyle = WebMessageBodyStyle.Bare)]
+    string IdentificaZona(double latitude, double longitude);
 }

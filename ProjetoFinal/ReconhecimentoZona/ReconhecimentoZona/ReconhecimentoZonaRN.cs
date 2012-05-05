@@ -67,10 +67,29 @@ namespace ReconhecimentoZonaRN
                     //Application.DoEvents();
                 });
 
-            network.Learn(trainingSet, ciclos);
+            //network.Learn(trainingSet, ciclos);
+            int cicloAtual = ciclos / 5;
+            int acertos = 0;
+            while (cicloAtual <= ciclos && acertos / bancos.Count < 0.99)
+            {
+                network.Learn(trainingSet, cicloAtual);
+
+                acertos = 0;
+                foreach (Banco banco in bancos)
+                {
+                    double[] input = new double[] { NormalizarLatitude(banco.Latitude), NormalizarLongitude(banco.Longitude) };
+                    double[] resultado = network.Run(input);
+                    if (ConverterArrayDoubleParaZona(resultado) != banco.Zona)
+                        trainingSet.Add(new TrainingSample(input, ConverterZonaParaArrayDouble(banco.Zona)));
+                    else
+                        acertos++;
+                }
+
+                cicloAtual += ciclos / 5;
+            }
 
             //using (Stream stream = File.Open(System.IO.Directory.GetCurrentDirectory() + "\\" + nomeRedeNeural + ".ndn", FileMode.Create))
-            using (Stream stream = File.Open(System.IO.Directory.GetCurrentDirectory() + "\\Redes\\" + nomeRede + ".ndn", FileMode.Create))
+            using (Stream stream = File.Open("c:\\ReconhecimentoZonaRN\\" + nomeRede + ".ndn", FileMode.Create))
             {
                 IFormatter formatter = new BinaryFormatter();
                 formatter.Serialize(stream, network);
@@ -147,10 +166,10 @@ namespace ReconhecimentoZonaRN
 
         private Network RecuperarRede()
         {
-            if (!File.Exists(System.IO.Directory.GetCurrentDirectory() + "\\Redes\\" + nomeRede + ".ndn"))
+            if (!File.Exists("c:\\ReconhecimentoZonaRN\\" + nomeRede + ".ndn"))
                 return null;
 
-            using (Stream stream = File.Open(System.IO.Directory.GetCurrentDirectory() + "\\Redes\\" + nomeRede + ".ndn", FileMode.Open))
+            using (Stream stream = File.Open("c:\\ReconhecimentoZonaRN\\" + nomeRede + ".ndn", FileMode.Open))
             {
                 IFormatter formatter = new BinaryFormatter();
                 return (Network)formatter.Deserialize(stream);

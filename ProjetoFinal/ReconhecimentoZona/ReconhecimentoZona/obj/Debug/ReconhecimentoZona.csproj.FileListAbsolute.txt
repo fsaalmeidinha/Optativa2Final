@@ -11,3 +11,11 @@ C:\Users\felipe.almeida1.SENACEDU.000\Documents\Visual Studio 2010\Projects\Reco
 C:\Users\felipe.almeida1.SENACEDU.000\Documents\Visual Studio 2010\Projects\ReconhecimentoZona - Cópia\ReconhecimentoZona\bin\Debug\ReconhecimentoZonaRN.pdb
 C:\Users\felipe.almeida1.SENACEDU.000\Documents\Visual Studio 2010\Projects\ReconhecimentoZona - Cópia\ReconhecimentoZona\obj\Debug\ReconhecimentoZonaRN.dll
 C:\Users\felipe.almeida1.SENACEDU.000\Documents\Visual Studio 2010\Projects\ReconhecimentoZona - Cópia\ReconhecimentoZona\obj\Debug\ReconhecimentoZonaRN.pdb
+C:\Users\Felipe\Desktop\Optativa2\ProjetoFinal\ReconhecimentoZona\ReconhecimentoZona\bin\Debug\ReconhecimentoZonaRN.dll
+C:\Users\Felipe\Desktop\Optativa2\ProjetoFinal\ReconhecimentoZona\ReconhecimentoZona\bin\Debug\ReconhecimentoZonaRN.pdb
+C:\Users\Felipe\Desktop\Optativa2\ProjetoFinal\ReconhecimentoZona\ReconhecimentoZona\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\Optativa2\ProjetoFinal\ReconhecimentoZona\ReconhecimentoZona\obj\Debug\ReconhecimentoZonaRN.Resources.resources
+C:\Users\Felipe\Desktop\Optativa2\ProjetoFinal\ReconhecimentoZona\ReconhecimentoZona\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Felipe\Desktop\Optativa2\ProjetoFinal\ReconhecimentoZona\ReconhecimentoZona\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Felipe\Desktop\Optativa2\ProjetoFinal\ReconhecimentoZona\ReconhecimentoZona\obj\Debug\ReconhecimentoZonaRN.dll
+C:\Users\Felipe\Desktop\Optativa2\ProjetoFinal\ReconhecimentoZona\ReconhecimentoZona\obj\Debug\ReconhecimentoZonaRN.pdb
