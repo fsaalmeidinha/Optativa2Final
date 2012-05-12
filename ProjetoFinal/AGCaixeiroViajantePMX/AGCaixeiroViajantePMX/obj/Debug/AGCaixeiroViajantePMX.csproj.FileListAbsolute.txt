@@ -1,0 +1,8 @@
+c:\users\felipe.almeida1\documents\visual studio 2010\Projects\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\ResolveAssemblyReference.cache
+c:\users\felipe.almeida1\documents\visual studio 2010\Projects\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\AGCaixeiroViajantePMX.Resources.resources
+c:\users\felipe.almeida1\documents\visual studio 2010\Projects\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\GenerateResource.read.1.tlog
+c:\users\felipe.almeida1\documents\visual studio 2010\Projects\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\GenerateResource.write.1.tlog
+c:\users\felipe.almeida1\documents\visual studio 2010\Projects\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\bin\Debug\AGCaixeiroViajantePMX.dll
+c:\users\felipe.almeida1\documents\visual studio 2010\Projects\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\bin\Debug\AGCaixeiroViajantePMX.pdb
+c:\users\felipe.almeida1\documents\visual studio 2010\Projects\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\AGCaixeiroViajantePMX.dll
+c:\users\felipe.almeida1\documents\visual studio 2010\Projects\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\AGCaixeiroViajantePMX.pdb
