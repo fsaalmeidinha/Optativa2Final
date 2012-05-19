@@ -21,9 +21,9 @@ namespace AGCaixeiroViajantePMX.Model
 
         public static List<Agencia> PegarTodas(double latitude, double longitude)
         {
-            List<Agencia> bancos = CsvImport.LerBancos();
-            bancos.ForEach(banco => banco.Distancia = AGCaixeiroViajantePMX.Distancia.CalcularDistanciaKM(latitude, longitude, banco.Latitude, banco.Longitude));
-            return bancos;
+            List<Agencia> agencias = CsvImport.LerBancos();
+            agencias.ForEach(banco => banco.Distancia = AGCaixeiroViajantePMX.Distancia.CalcularDistanciaKM(latitude, longitude, banco.Latitude, banco.Longitude));
+            return agencias;
         }
     }
 }
