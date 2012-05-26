@@ -1,0 +1,5 @@
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Utils\bin\Debug\Utils.dll
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Utils\bin\Debug\Utils.pdb
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Utils\obj\Debug\ResolveAssemblyReference.cache
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Utils\obj\Debug\Utils.dll
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Utils\obj\Debug\Utils.pdb

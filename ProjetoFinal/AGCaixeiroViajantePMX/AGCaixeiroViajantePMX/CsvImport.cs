@@ -26,12 +26,12 @@ namespace AGCaixeiroViajantePMX
                 string[] colunas = linha.Replace("São Paulo - ", "").Replace("\r", "").Split('\t');
                 banco.Id = i++;
                 banco.Nome = colunas[0];
-                banco.Longitude = Convert.ToDouble(colunas[1]);
                 banco.Latitude = Convert.ToDouble(colunas[2]);
+                banco.Longitude = Convert.ToDouble(colunas[1]);
                 if (Math.Abs(banco.Latitude) > 1000)
                 {
-                    banco.Latitude = Convert.ToDouble(colunas[1].Replace('.', ','));
-                    banco.Longitude = Convert.ToDouble(colunas[2].Replace('.', ','));
+                    banco.Latitude = Convert.ToDouble(colunas[2].Replace('.', ','));
+                    banco.Longitude = Convert.ToDouble(colunas[1].Replace('.', ','));
                 }
                 banco.Zona = colunas[3];
 

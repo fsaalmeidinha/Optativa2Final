@@ -42,10 +42,10 @@ namespace AGCaixeiroViajantePMX
                     else
                     {
                         //Distancia entre os bancos
-                        double lat1 = agenciasMaisProximas[i].Latitude;
-                        double long1 = agenciasMaisProximas[i].Longitude;
-                        double lat2 = agenciasMaisProximas[j].Latitude;
-                        double long2 = agenciasMaisProximas[j].Longitude;
+                        double lat1 = agenciasMaisProximas[i - 1].Latitude;
+                        double long1 = agenciasMaisProximas[i - 1].Longitude;
+                        double lat2 = agenciasMaisProximas[j - 1].Latitude;
+                        double long2 = agenciasMaisProximas[j - 1].Longitude;
                         double distanciaBancos = Distancia.CalcularDistanciaKM(lat1, long1, lat2, long2);
                         matrizDistancias[i, j] = distanciaBancos;
                     }
@@ -61,14 +61,34 @@ namespace AGCaixeiroViajantePMX
             GerarPopulacaoIndividuos();
         }
 
-        public List<Agencia> RecuperarRotaAgencias()
+        public List<Rota> RecuperarRotaAgencias()
         {
-            List<Agencia> roteiroAgencias = new List<Agencia>();
-            for (int indCromossomo = 0; indCromossomo < quantidadeAgenciasSolicitadas; indCromossomo++)
+            List<Rota> roteiroAgencias = new List<Rota>();
+
+            for (int indCromossomo = 0; indCromossomo <= quantidadeAgenciasSolicitadas; indCromossomo++)
             {
-                //Utilizar a distancia...
-                double distancia = matrizDistancias[indCromossomo, indCromossomo + 1];
-                roteiroAgencias.Add(agenciasMaisProximas[MelhorIndividuo().Cromossomos[indCromossomo + 1]]);
+                Rota rota = new Rota();
+                int proxDestino = indCromossomo + 1;
+                if (proxDestino == quantidadeAgenciasSolicitadas + 1) proxDestino = 0;
+
+                //roteiroAgencias.Add(agenciasMaisProximas[MelhorIndividuo().Cromossomos[]]);
+                //roteiroAgencias.Last().Distancia = distancia;
+                rota.Distancia = matrizDistancias[indCromossomo, proxDestino];
+
+                if (proxDestino != 0)
+                {
+                    rota.Destino = agenciasMaisProximas[MelhorIndividuo().Cromossomos[indCromossomo + 1] - 1].Nome;
+                    rota.Latitude = agenciasMaisProximas[MelhorIndividuo().Cromossomos[indCromossomo + 1] - 1].Latitude;
+                    rota.Longitude = agenciasMaisProximas[MelhorIndividuo().Cromossomos[indCromossomo + 1] - 1].Longitude;
+                }
+                else
+                {
+                    rota.Destino = "Origem";
+                    rota.Latitude = latitude;
+                    rota.Longitude = longitude;
+                }
+
+                roteiroAgencias.Add(rota);
             }
             return roteiroAgencias;
         }

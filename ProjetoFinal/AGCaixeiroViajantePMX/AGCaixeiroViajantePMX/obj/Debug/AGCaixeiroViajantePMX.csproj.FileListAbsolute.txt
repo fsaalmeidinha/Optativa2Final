@@ -14,3 +14,11 @@ C:\Users\Felipe\Desktop\Optativa2\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroV
 C:\Users\Felipe\Desktop\Optativa2\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\GenerateResource.write.1.tlog
 C:\Users\Felipe\Desktop\Optativa2\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\AGCaixeiroViajantePMX.dll
 C:\Users\Felipe\Desktop\Optativa2\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\AGCaixeiroViajantePMX.pdb
+C:\Users\Wagner\Desktop\Optativa\OptativaFinal\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wagner\Desktop\Optativa\OptativaFinal\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\AGCaixeiroViajantePMX.Resources.resources
+C:\Users\Wagner\Desktop\Optativa\OptativaFinal\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Wagner\Desktop\Optativa\OptativaFinal\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Wagner\Desktop\Optativa\OptativaFinal\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\AGCaixeiroViajantePMX.dll
+C:\Users\Wagner\Desktop\Optativa\OptativaFinal\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\AGCaixeiroViajantePMX.pdb
+C:\Users\Wagner\Desktop\Optativa\OptativaFinal\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\bin\Debug\AGCaixeiroViajantePMX.dll
+C:\Users\Wagner\Desktop\Optativa\OptativaFinal\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\bin\Debug\AGCaixeiroViajantePMX.pdb
