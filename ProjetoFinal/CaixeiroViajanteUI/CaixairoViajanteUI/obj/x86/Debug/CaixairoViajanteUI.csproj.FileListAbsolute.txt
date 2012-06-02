@@ -1,0 +1,34 @@
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\obj\x86\Debug\CaixairoViajanteUI.Form1.resources
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\obj\x86\Debug\CaixairoViajanteUI.Properties.Resources.resources
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\bin\Debug\CaixairoViajanteUI.exe.config
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\bin\Debug\CaixairoViajanteUI.exe
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\bin\Debug\CaixairoViajanteUI.pdb
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\bin\Debug\Utils.dll
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\bin\Debug\Utils.pdb
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\obj\x86\Debug\CaixairoViajanteUI.exe
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\obj\x86\Debug\CaixairoViajanteUI.pdb
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\bin\Debug\ReconhecimentoZonaRN.dll
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\bin\Debug\NeuronDotNet.Core.dll
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\bin\Debug\ReconhecimentoZonaRN.pdb
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\bin\Debug\AGCaixeiroViajantePMX.dll
+c:\users\felipe\documents\visual studio 2010\Projects\CaixairoViajanteUI\CaixairoViajanteUI\bin\Debug\AGCaixeiroViajantePMX.pdb
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\CaixairoViajanteUI.exe.config
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\obj\x86\Debug\CaixairoViajanteUI.exe
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\obj\x86\Debug\CaixairoViajanteUI.pdb
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\CaixairoViajanteUI.exe
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\CaixairoViajanteUI.pdb
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\AGCaixeiroViajantePMX.dll
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\ReconhecimentoZonaRN.dll
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\Utils.dll
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\NeuronDotNet.Core.dll
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\AGCaixeiroViajantePMX.pdb
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\ReconhecimentoZonaRN.pdb
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\Utils.pdb
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\obj\x86\Debug\CaixairoViajanteUI.Form1.resources
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\obj\x86\Debug\CaixairoViajanteUI.Properties.Resources.resources
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\obj\x86\Debug\GenerateResource.write.1.tlog

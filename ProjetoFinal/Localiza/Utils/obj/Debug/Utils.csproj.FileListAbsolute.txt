@@ -1,0 +1,23 @@
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Utils\bin\Debug\Utils.dll
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Utils\bin\Debug\Utils.pdb
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Utils\obj\Debug\ResolveAssemblyReference.cache
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Utils\obj\Debug\Utils.dll
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Utils\obj\Debug\Utils.pdb
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Utils\bin\Debug\Utils.dll
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Utils\bin\Debug\Utils.pdb
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Utils\obj\Debug\Utils.dll
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Utils\obj\Debug\Utils.pdb
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Utils\obj\Debug\Utils.Resources.resources
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Utils\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Utils\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Lib-Geral\Utils.dll
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Lib-Geral\Utils.pdb
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Lib-Geral\Utils.dll
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Lib-Geral\Utils.pdb
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Localiza\Utils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Localiza\Utils\obj\Debug\Utils.Resources.resources
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Localiza\Utils\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Localiza\Utils\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Localiza\Utils\obj\Debug\Utils.dll
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Localiza\Utils\obj\Debug\Utils.pdb

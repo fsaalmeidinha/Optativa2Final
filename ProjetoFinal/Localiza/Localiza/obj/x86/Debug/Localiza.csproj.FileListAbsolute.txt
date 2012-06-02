@@ -1,0 +1,28 @@
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Localiza\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Localiza\bin\Debug\Localiza.exe.config
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Localiza\bin\Debug\Localiza.exe
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Localiza\bin\Debug\Localiza.pdb
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Localiza\bin\Debug\Utils.dll
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Localiza\bin\Debug\Utils.pdb
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Localiza\obj\x86\Debug\Localiza.exe
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Localiza\obj\x86\Debug\Localiza.pdb
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Localiza\bin\Debug\AGCaixeiroViajantePMX.dll
+c:\users\wagner\documents\visual studio 2010\Projects\Localiza\Localiza\bin\Debug\AGCaixeiroViajantePMX.pdb
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Localiza\bin\Debug\Localiza.exe.config
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Localiza\obj\x86\Debug\Localiza.exe
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Localiza\obj\x86\Debug\Localiza.pdb
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Localiza\bin\Debug\Localiza.exe
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Localiza\bin\Debug\Localiza.pdb
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Localiza\bin\Debug\Utils.dll
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Localiza\bin\Debug\AGCaixeiroViajantePMX.pdb
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Localiza\bin\Debug\Utils.pdb
+C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Localiza\Localiza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Localiza\Localiza\bin\Debug\Localiza.exe.config
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Localiza\Localiza\obj\x86\Debug\Localiza.exe
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Localiza\Localiza\obj\x86\Debug\Localiza.pdb
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Localiza\Localiza\bin\Debug\Localiza.exe
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Localiza\Localiza\bin\Debug\Localiza.pdb
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Localiza\Localiza\bin\Debug\Utils.dll
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Localiza\Localiza\bin\Debug\AGCaixeiroViajantePMX.pdb
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Localiza\Localiza\bin\Debug\Utils.pdb
+C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Localiza\Localiza\obj\x86\Debug\ResolveAssemblyReference.cache
