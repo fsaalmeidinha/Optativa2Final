@@ -1,4 +1,4 @@
-﻿namespace CaixairoViajanteUI
+﻿namespace CaixeiroViajanteUI
 {
     partial class Form1
     {

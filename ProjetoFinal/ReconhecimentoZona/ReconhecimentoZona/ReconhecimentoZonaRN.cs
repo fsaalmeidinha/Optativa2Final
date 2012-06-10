@@ -89,7 +89,7 @@ namespace ReconhecimentoZonaRN
             }
 
             //using (Stream stream = File.Open(System.IO.Directory.GetCurrentDirectory() + "\\" + nomeRedeNeural + ".ndn", FileMode.Create))
-            using (Stream stream = File.Open("c:\\ReconhecimentoZonaRN\\" + nomeRede + ".ndn", FileMode.Create))
+            using (Stream stream = File.Open("..\\Pasta\\" + nomeRede + ".ndn", FileMode.Create))
             {
                 IFormatter formatter = new BinaryFormatter();
                 formatter.Serialize(stream, network);

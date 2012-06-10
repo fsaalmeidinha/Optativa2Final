@@ -24,3 +24,8 @@ C:\Users\Felipe\Desktop\optativa\ProjetoFinal\ReconhecimentoZona\ReconhecimentoZ
 C:\Users\Felipe\Desktop\optativa\ProjetoFinal\ReconhecimentoZona\ReconhecimentoZona\obj\Debug\ReconhecimentoZonaRN.pdb
 C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Lib-Geral\ReconhecimentoZonaRN.dll
 C:\Users\Felipe\Desktop\optativa\ProjetoFinal\Lib-Geral\ReconhecimentoZonaRN.pdb
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\Lib-Geral\ReconhecimentoZonaRN.dll
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\Lib-Geral\ReconhecimentoZonaRN.pdb
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\ReconhecimentoZona\ReconhecimentoZona\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\ReconhecimentoZona\ReconhecimentoZona\obj\Debug\ReconhecimentoZonaRN.dll
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\ReconhecimentoZona\ReconhecimentoZona\obj\Debug\ReconhecimentoZonaRN.pdb

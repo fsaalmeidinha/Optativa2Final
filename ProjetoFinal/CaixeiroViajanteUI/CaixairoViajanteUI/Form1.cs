@@ -10,7 +10,7 @@ using Utils;
 using Utils.Model;
 using AGCaixeiroViajantePMX.Model;
 
-namespace CaixairoViajanteUI
+namespace CaixeiroViajanteUI
 {
     public partial class Form1 : Form
     {

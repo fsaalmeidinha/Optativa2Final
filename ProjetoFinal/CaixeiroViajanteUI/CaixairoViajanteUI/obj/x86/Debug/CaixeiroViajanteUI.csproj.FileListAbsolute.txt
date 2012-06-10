@@ -1,0 +1,17 @@
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\CaixeiroViajanteUI.exe.config
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\CaixeiroViajanteUI.exe
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\CaixeiroViajanteUI.pdb
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\AGCaixeiroViajantePMX.dll
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\ReconhecimentoZonaRN.dll
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\Utils.dll
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\NeuronDotNet.Core.dll
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\AGCaixeiroViajantePMX.pdb
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\ReconhecimentoZonaRN.pdb
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\bin\Debug\Utils.pdb
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\obj\x86\Debug\CaixeiroViajanteUI.Form1.resources
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\obj\x86\Debug\CaixeiroViajanteUI.Properties.Resources.resources
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\obj\x86\Debug\CaixeiroViajanteUI.exe
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\CaixeiroViajanteUI\CaixairoViajanteUI\obj\x86\Debug\CaixeiroViajanteUI.pdb

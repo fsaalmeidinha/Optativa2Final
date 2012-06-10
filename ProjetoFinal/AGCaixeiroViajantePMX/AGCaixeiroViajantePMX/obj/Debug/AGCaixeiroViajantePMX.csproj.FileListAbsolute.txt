@@ -36,3 +36,8 @@ C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\Lib-Geral\AGCaixeiroViajantePMX.pdb
 C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\AGCaixeiroViajantePMX.dll
 C:\Users\Felipe\Desktop\bckOpt\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\AGCaixeiroViajantePMX.pdb
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\Lib-Geral\AGCaixeiroViajantePMX.dll
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\Lib-Geral\AGCaixeiroViajantePMX.pdb
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\AGCaixeiroViajantePMX.dll
+C:\Users\Wagner\Desktop\Optativa\Final\ProjetoFinal\AGCaixeiroViajantePMX\AGCaixeiroViajantePMX\obj\Debug\AGCaixeiroViajantePMX.pdb
